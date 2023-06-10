@@ -24,6 +24,17 @@
 
 ![image](https://github.com/hyunalee2021/TeaMall/assets/93066693/f843e257-17d7-4b25-9917-08571b7e8668)
 
+---
+cd order
+mvn package 
+docker image build -t hyunalee2021/order:v0.1 .
+docker login
+docker push hyunalee2021/order:v0.1
+---
+
+## 쿠버네트스 준비
+
+![image](https://github.com/hyunalee2021/TeaMall/assets/93066693/4f61582e-3c8a-4d53-8abc-948fcdcd3305)
 
 
 ## 쿠버네티스 서비스 배포
