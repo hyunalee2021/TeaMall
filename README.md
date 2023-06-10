@@ -15,9 +15,13 @@
 1. 판매자가  확인하여 배송한다
  
 
+
+
 # Event Storming 결과
 
 ![image](https://github.com/hyunalee2021/sjcu-microservice-labs/assets/93066693/c935bc85-fb9c-48f0-be22-9f6a3b6fb8ed)
+
+
 
 
 # Image 생성 및 push
@@ -28,9 +32,13 @@
 ![image](https://github.com/hyunalee2021/TeaMall/assets/93066693/e2043805-eaa2-4760-b08f-8eeed918dcad)
 
 
+
+
+
 # 쿠버네트스 준비
 
 ![image](https://github.com/hyunalee2021/TeaMall/assets/93066693/4f61582e-3c8a-4d53-8abc-948fcdcd3305)
+
 
 
 # 쿠버네티스 서비스 배포
