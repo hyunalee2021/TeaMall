@@ -37,7 +37,7 @@
 
 
 
-# 쿠버네트스 준비
+# 쿠버네티스 준비
 
 ![image](https://github.com/hyunalee2021/TeaMall/assets/93066693/4f61582e-3c8a-4d53-8abc-948fcdcd3305)
 
